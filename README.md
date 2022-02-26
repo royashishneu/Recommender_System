@@ -15,9 +15,9 @@ To learn about statistical concepts for recommending top products for a customer
 
 To recommend top 10 products by using 3 data points i.e customer_id, item_id and purchased.
 
-Uses cosine_similarity and csr_matrix to find the similarity between customer's behavior and recommend the next relevent product that other customers have also purchased. The script can be used to recommend together bought items based on the customer's purchase in real-time. 
+Uses cosine_similarity and csr_matrix to find the similarity between customer's behavior and recommend the next relevant product that other customers have also purchased. The script can be used to recommend together bought items based on the customer's purchase in real-time. 
 
-Additional accomoditions can be made based on different use cases.
+Additional accommodations can be made based on different use cases.
 
 ## Packages Used
 
